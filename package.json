@@ -1,0 +1,19 @@
+{
+  "name": "hexmark",
+  "version": "1.0.0",
+  "description": "juststarted",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkoTrue/hexlet-js.git"
+  },
+  "author": "mark",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkoTrue/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/MarkoTrue/hexlet-js#readme"
+}
