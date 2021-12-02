@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/MarkoTrue/hexlet-js#readme",
   "dependencies": {
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.21",
+    "nodejs-package": "^0.0.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.5.0"
   }
 }
